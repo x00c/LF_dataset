@@ -6,4 +6,5 @@
   5. vehicles: train, valid
   6. trash: train, valid
   7. building: train, valid
-
+  8. drone_2: train, valid
+    
